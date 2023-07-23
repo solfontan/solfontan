@@ -1,7 +1,4 @@
-<div id='header',align='center>
-    "Hi, i'm Sol. 
-    Welcome to my world! 
-</div>
+### Hi, i'm Sol
 
 <!--
 **solfontan/solfontan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
