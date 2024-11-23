@@ -2,8 +2,6 @@
 
 Soy Data Analyst con un enfoque en decisiones basadas en datos. Me encanta transformar datos en insights valiosos y comunicar resultados de manera efectiva.
 
-********
-
 ## Acerca de Mí 📊
 
 - 👨‍💻 Data Analyst en constante aprendizaje y crecimiento.
