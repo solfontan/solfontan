@@ -1,6 +1,8 @@
-#  ¡Hola, viajeros de datos! 📊✨
+# ¡Hola, soy Sol Fontán González! 👋
 
-¡Hola a todos! Soy Sol Fontán González, una Data Analyst apasionada por explorar y analizar datos para tomar decisiones informadas. Este es mi rincón virtual donde comparto mis proyectos y mi camino en el mundo del análisis de datos.
+Soy Data Analyst con un enfoque en decisiones basadas en datos. Me encanta transformar datos en insights valiosos y comunicar resultados de manera efectiva.
+
+********
 
 ## Acerca de Mí 📊
 
